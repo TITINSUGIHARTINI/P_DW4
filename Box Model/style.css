@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+
+.border1 {
+    width: 280px;
+    border: 2px solid palevioletred ;
+    padding: 10px;
+}
+
+.border2
+{
+    width: 200px;
+    border: 2px solid palegreen ;
+    padding: 10px;
+}
+
+.border3
+{
+    width: 200px;
+    border: 2px solid blue;
+    padding: 10px;
+}
+
+.border4
+{
+    width: 200px;
+    border: 2px solid blue;
+    padding: 10px;
+}

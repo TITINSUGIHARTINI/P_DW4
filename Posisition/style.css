@@ -1,0 +1,39 @@
+.border1 {
+    width: 280px;
+    border: 10px solid palevioletred ;
+    padding: 10px;
+    margin: 10px;
+}
+
+.border2
+{
+    width: 200px;
+    border: 10px solid palegreen ;
+    padding: 10px;
+    margin: 10px;
+}
+
+.border3
+{
+    width: 200px;
+    border: 10px solid blue;
+    padding: 10px;
+    margin: 10px;
+}
+
+.border4
+{
+    width: 200px;
+    border: 10px solid blue;
+    padding: 10px;
+    margin: 10px;
+}
+.relative {
+    position: relative;
+    top: 300px;
+    left: 100px;
+} 
+nav {
+    position:fixed;
+    bottom: 0;
+}
